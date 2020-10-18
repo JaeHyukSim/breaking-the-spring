@@ -26,3 +26,4 @@
 
     1. Git 공부를 통해 branch 사용 방법, 개발을 위한 git cycle을 익히고 활용합니다.
     
+#### 4. 모든 개발 과정을 Spring Framework와 비교합니다.
