@@ -29,6 +29,21 @@
         
         and do an initial commit.
         
+### 2. 이미 있는 Git repository를 Clone하기
+
+    1. git clone
+    
+        git clone을 통해 버전 관리된 프로젝트의 모든 히스토리를 받을 수 있습니다.
+        
+        $ git clone https://github.com/libgit2/libgit2 와 같은 명령어를 사용할 수 있습니다.
+        
+        그러면 libgit2 디렉터리를 얻고, .git파일을 내부적으로 갖게 됩니다.
+        
+        그리고 해당 리포지토리의 모든 데이터를 pull 받고 최신 버전으로 check out된 상태로 진행할 수 있습니다.
+        
+        That creates a directory named libgit2, initializes a .git directory inside it, 
+        
+        pulls down all the data for that repository, and checks out a working copy of the latest version. 
 -----------
     
 You typically obtain a Git repository in one of two ways:
