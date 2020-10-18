@@ -33,3 +33,5 @@
     including its full history. Thus, if any server dies, and these systems were collaborating via that server, 
     any of the client repositories can be copied back up to the server to restore it. 
     Every clone is really a full backup of all the data.
+    
+    ![getting-started-DVCS](https://user-images.githubusercontent.com/55395239/96369603-01ece100-1196-11eb-87ed-439595f1c91d.JPG)
