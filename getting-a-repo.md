@@ -70,5 +70,14 @@ $ git commit -m 'Initial project version'
 
 We’ll go over what these commands do in just a minute. At this point, you have a Git repository with tracked files and an initial commit.
 
+You clone a repository with git clone <url>. For example, if you want to clone the Git linkable library called libgit2, you can do so like this:
+
+$ git clone https://github.com/libgit2/libgit2
+
+That creates a directory named libgit2, initializes a .git directory inside it, 
+
+pulls down all the data for that repository, and checks out a working copy of the latest version. 
+
+If you go into the new libgit2 directory that was just created, you’ll see the project files in there, ready to be worked on or used.
 
 -------------
