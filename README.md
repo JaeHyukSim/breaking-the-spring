@@ -8,7 +8,7 @@
 
 ### 프로젝트 목표
 
-#### 1. Spring Framework 없이 스프링 웹 프로젝트 구조를 이해합니다.
+#### 1. Spring Framework 없이 스프링 웹 프로젝트 구조를 만들고, Spring Framework와 비교합니다.
 
     1. 스프링 MVC 구조를 이해합니다
     
